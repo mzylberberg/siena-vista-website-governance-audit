@@ -9,35 +9,35 @@ This project documents a full digital governance and health audit of the Siena i
 
 ## 2. Objectives
 
-Improve content accuracy (financial + date-sensitive information)
+- Improve content accuracy (financial + date-sensitive information)
 
-Implement governance model
+- Implement governance model
 
-Increase accessibility compliance
+- Increase accessibility compliance
 
-Improve Lighthouse performance score
+- Improve Lighthouse performance score
 
-Reduce broken links and outdated assets
+- Reduce broken links and outdated assets
 
 ## 3. Frameworks Used
 
-Google Lighthouse
+- Google Lighthouse
 
-WAVE Web Accessibility Evaluation Tool
+- WAVE Web Accessibility Evaluation Tool
 
-Screaming Frog SEO Spider
+- Screaming Frog SEO Spider
 
-Google Analytics
+- Google Analytics
 
 ## 4. Governance Model Implemented
 
-Page ownership assignment
+- Page ownership assignment
 
-Quarterly review cadence
+- Quarterly review cadence
 
-Risk classification system
+- Risk classification system
 
-Version control tracking
+- Version control tracking
 
 
 ## 5. Measurable Results
