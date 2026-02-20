@@ -1,4 +1,20 @@
-# Control Boundaries & Governance Authority
+# Scope of Editing Authority
+
+This audit was conducted using page-level editing access within the CMS. Changes were limited to front-end content updates, including text, images, headings, links, and page metadata where available.
+
+Template-level code, server performance, caching, and infrastructure configuration were outside the scope of this project.
+
+Lighthouse and accessibility findings were categorized based on whether they were:
+
+- Content-level (editable)
+
+- Template/infrastructure-level (requires IT or system admin support)
+
+Performance results are interpreted within this scope.
+
+
+
+<!-- # Control Boundaries & Governance Authority
 
 ## Project Context
 
@@ -92,4 +108,4 @@ By defining control boundaries:
 - Audit findings are contextualized
 - Performance metrics are interpreted responsibly
 
-This structured approach ensures that optimization efforts remain aligned with both operational authority and institutional risk management standards.
+This structured approach ensures that optimization efforts remain aligned with both operational authority and institutional risk management standards. --!>
