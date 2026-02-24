@@ -10,6 +10,8 @@ Audit Date: February 20, 2026
 
 Environment: Desktop / WAVE (Chrome)
 
-Audit Date: February 24th, 2026 
+Audit Date: February 24, 2026 
 
 Environment: Application / Screaming Frog SEO Spider v.23.2
+
+Audit Date: February 24, 2026
