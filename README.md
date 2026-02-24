@@ -29,7 +29,17 @@ This project documents a full digital governance and health audit of the Siena i
 
 - Google Analytics
 
-## 4. Governance Model Implemented
+## 4. Repository Structure
+
+- Audit Framework → /audit-framework
+- Accessibility Audit → /audits/accessibility
+- Lighthouse Reports → /audits/lighthouse
+- SEO Audit → /audits/seo
+- Content Inventory → /content-inventory
+- Executive Metrics → /metrics
+
+
+## 5. Governance Model Implemented
 
 - Page ownership assignment
 
@@ -40,6 +50,6 @@ This project documents a full digital governance and health audit of the Siena i
 - Version control tracking
 
 
-## 5. Measurable Results
+## 6. Measurable Results
 
-(You’ll fill this in later with numbers.)
+( fill this in later with numbers.)
