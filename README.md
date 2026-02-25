@@ -1,4 +1,4 @@
-# Siena VISTA website governance audit
+# Siena VISTA Website Governance Audit
 Auditing the Siena VISTA website before vs after
 
 ## 1.Project Overview
