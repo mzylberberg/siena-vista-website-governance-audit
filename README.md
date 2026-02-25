@@ -3,9 +3,7 @@ Auditing the Siena VISTA website before vs after
 
 ## 1.Project Overview
 
-Example:
-
-This project documents a full digital governance and health audit of the Siena institutional website. The initiative aimed to improve content accuracy, accessibility compliance, SEO performance, and risk mitigation using structured auditing frameworks.
+This project documents a digital governance and health audit of the Siena VISTA institutional website. The initiative aimed to improve content accuracy, accessibility compliance, content design, and SEO performance using structured auditing frameworks.
 
 ## 2. Objectives
 
