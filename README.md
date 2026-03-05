@@ -31,7 +31,9 @@ This project documents a digital governance and health audit of the Siena VISTA 
 
 - Audit Framework → /audit-framework
 - Accessibility Audit → /audits/accessibility
-- Lighthouse Reports → /audits/lighthouse
+- Reports
+  - → /audits/before
+  - → /audits/after
 - SEO Audit → /audits/seo
 - Content Inventory → /content-inventory
 - Executive Metrics → /metrics
