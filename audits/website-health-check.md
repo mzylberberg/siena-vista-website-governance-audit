@@ -1,6 +1,6 @@
 # Website Health Check Overview 
 
-URL Audited: https://www.siena.edu/ace/ace-programs/americorps-vista-fellows/
+URL Audited: https://www.siena.edu/ace/ace-programs/americorps-vista/
 
 Auditor: Mya Zylberberg
 
