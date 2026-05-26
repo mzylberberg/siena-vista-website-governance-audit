@@ -9,7 +9,7 @@ This project documents a digital governance and health audit of the Siena VISTA 
 
 - Improve content accuracy (financial + date-sensitive information)
 
-- Implement governance model
+- Increase readability
 
 - Increase accessibility compliance
 
@@ -18,6 +18,7 @@ This project documents a digital governance and health audit of the Siena VISTA 
 - Reduce broken links and outdated assets
 
 ## 3. Frameworks Used
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/#sotd)
 
 - Google Lighthouse
 
@@ -29,13 +30,10 @@ This project documents a digital governance and health audit of the Siena VISTA 
 
 ## 4. Repository Structure
 
-- Audit Framework → /audit-framework
-- Accessibility Audit → /audits/accessibility
 - Reports
   - → /audits/before
   - → /audits/after
 - SEO Audit → /audits/seo
-- Content Inventory → /content-inventory
 - Executive Metrics → /metrics
 
 
